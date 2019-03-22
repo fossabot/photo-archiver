@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@types/globby": "8.0.0",
-    "@types/inquirer": "0.0.44",
+    "@types/inquirer": "6.0.0",
     "@types/jest": "23.3.14",
     "@types/minimist": "1.2.0",
     "@types/node": "10.14.3",
